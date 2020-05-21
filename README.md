@@ -20,7 +20,7 @@
 
 ##### Bolsista 
 ###### *UFRGS | 06/2018 - 02/2019*
-###### Desenvolvedor de integrações do ERP Protheus com API externas(Nodejs) e customizações em ADVPL. 
+###### Atualização da página do PPGENFIS. Desenvolvimento em php com o uso da plataforma WordPress. 
 ---
 
 ### :books: Formação 
