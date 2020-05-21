@@ -3,7 +3,8 @@
 ---
 ### :memo: Sobre
 :email: rafanleite@gmail.com
-<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/><a href="https://www.linkedin.com/in/rafanleite/">Rafael Leite</a>
+
+<img src="https://img.icons8.com/ios-filled/25/000000/linkedin.png"/><a href="https://www.linkedin.com/in/rafanleite/">Rafael Leite</a>
 
 ---
 
@@ -35,6 +36,6 @@
 
 ### :file_folder: Repositório 
 > Projetos pessoais para aprender/desenvolver novas tecnologias 
-<a href="https://github.com/LeiteRafael/">LeiteRafael</a>
+<a href="https://github.com/LeiteRafael?tab=repositories">LeiteRafael</a>
 
 ---
