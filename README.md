@@ -1,4 +1,4 @@
-# Rafael Nascimento Leite
+# Rafael Leite
 > Software Developer
 ---
 ### :memo: Sobre
