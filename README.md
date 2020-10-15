@@ -12,7 +12,7 @@
 
 ##### Desenvolvedor NodeJS
 ###### *Sensedia | 08/2020 - o momento*
-###### Desenvolvedor de APIs. 
+###### Desenvolvedor BackEnd (Nodejs). 
 
 ##### Desenvolvedor ADVPL/NodeJS
 ###### *Sosys Business Insight | 06/2019 - 08/2020*
